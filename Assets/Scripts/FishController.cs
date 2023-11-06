@@ -38,9 +38,8 @@ public class FishController : MonoBehaviour
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
-        if (collision.gameObject.name == "Water_Swim")
+        if (collision.gameObject.name == "Water")
         {
-            Debug.Log("hit");
             currentDirection = -currentDirection;
         }
     }
