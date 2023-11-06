@@ -8,9 +8,11 @@ public class PlayerController : MonoBehaviour
     public float jumpSpeed;
     public Transform groundCheck;
     public LayerMask whatIsTerrain;
+    public LayerMask whatIsWater;
     public Animator animator;
     private Rigidbody2D rb;
     private bool grounded;
+    private bool wet;
     // Start is called before the first frame update
     void Start()
     {
@@ -32,9 +34,11 @@ public class PlayerController : MonoBehaviour
         }
 
         grounded = Physics2D.OverlapBox(groundCheck.position, new Vector2(0.1f, 0.2f), 0f, whatIsTerrain);
+        wet = Physics2D.OverlapBox(groundCheck.position, new Vector2(0.1f, 0.2f), 0f, whatIsWater);
+
         animator.SetBool("grounded", grounded);
 
-        if(Input.GetButtonDown("Jump") && grounded)
+        if(Input.GetButtonDown("Jump") && (grounded || wet))
         {
             rb.velocity = new Vector2(rb.velocity.x, jumpSpeed);
             animator.SetBool("grounded", false);
