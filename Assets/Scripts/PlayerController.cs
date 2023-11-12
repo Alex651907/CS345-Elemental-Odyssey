@@ -10,11 +10,14 @@ public class PlayerController : MonoBehaviour
     public LayerMask whatIsTerrain;
     public Animator animator;
     private Rigidbody2D rb;
+    public Vector2 startingPos = Vector2.zero;
     private bool grounded;
     // Start is called before the first frame update
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
+        startingPos = transform.position;
+        
     }
 
     // Update is called once per frame
@@ -38,6 +41,11 @@ public class PlayerController : MonoBehaviour
         {
             rb.velocity = new Vector2(rb.velocity.x, jumpSpeed);
             animator.SetBool("grounded", false);
+        }
+    }
+    void OnTriggerEnter2D(Collider2D co) {
+        if (co.tag == "lava"){
+            transform.position = startingPos;
         }
     }
 }
