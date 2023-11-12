@@ -195,9 +195,6 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -283,7 +280,6 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -367,11 +363,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -455,11 +447,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -543,11 +531,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -631,9 +615,6 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -765,7 +746,6 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -849,11 +829,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -937,11 +913,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -1025,9 +997,6 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -1289,7 +1258,6 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -1373,11 +1341,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 2
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 0a43c78ae33fbeb4491a4bf37896d477, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -1461,11 +1425,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -1549,11 +1509,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -1565,8 +1521,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
-<<<<<<< Updated upstream
-=======
 --- !u!1 &53904802
 GameObject:
   m_ObjectHideFlags: 0
@@ -1735,7 +1689,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
->>>>>>> Stashed changes
 --- !u!1 &63167727
 GameObject:
   m_ObjectHideFlags: 0
@@ -1808,11 +1761,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -1896,11 +1845,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 2
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 0a43c78ae33fbeb4491a4bf37896d477, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -1912,8 +1857,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
-<<<<<<< Updated upstream
-=======
 --- !u!1 &65253981
 GameObject:
   m_ObjectHideFlags: 0
@@ -2334,7 +2277,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
->>>>>>> Stashed changes
 --- !u!1 &74794074
 GameObject:
   m_ObjectHideFlags: 0
@@ -2407,11 +2349,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -2423,8 +2361,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
-<<<<<<< Updated upstream
-=======
 --- !u!1 &77410399
 GameObject:
   m_ObjectHideFlags: 0
@@ -2555,7 +2491,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
->>>>>>> Stashed changes
 --- !u!1 &85700723
 GameObject:
   m_ObjectHideFlags: 0
@@ -2628,11 +2563,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -2716,9 +2647,6 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -3056,7 +2984,6 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -3140,11 +3067,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -3228,11 +3151,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -3316,11 +3235,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -3404,11 +3319,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -3492,9 +3403,6 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -3580,7 +3488,6 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -3664,11 +3571,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -3752,9 +3655,6 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -3970,7 +3870,6 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -4054,11 +3953,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -4142,11 +4037,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -4230,11 +4121,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -4246,8 +4133,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
-<<<<<<< Updated upstream
-=======
 --- !u!1 &151727449
 GameObject:
   m_ObjectHideFlags: 0
@@ -4462,7 +4347,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
->>>>>>> Stashed changes
 --- !u!1 &160113955
 GameObject:
   m_ObjectHideFlags: 0
@@ -4535,11 +4419,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -4623,8 +4503,6 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-=======
   m_SortingOrder: 1
   m_Sprite: {fileID: 21300000, guid: 0a43c78ae33fbeb4491a4bf37896d477, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -4840,7 +4718,6 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
->>>>>>> Stashed changes
   m_SortingOrder: 2
   m_Sprite: {fileID: 21300000, guid: 0a43c78ae33fbeb4491a4bf37896d477, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -4853,8 +4730,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
-<<<<<<< Updated upstream
-=======
 --- !u!61 &167771382
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -4984,7 +4859,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
->>>>>>> Stashed changes
 --- !u!1 &169976642
 GameObject:
   m_ObjectHideFlags: 0
@@ -5057,9 +4931,6 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -5145,7 +5016,6 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -5229,11 +5099,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -5245,8 +5111,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
-<<<<<<< Updated upstream
-=======
 --- !u!1 &176888827
 GameObject:
   m_ObjectHideFlags: 0
@@ -5331,7 +5195,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
->>>>>>> Stashed changes
 --- !u!1 &178399017
 GameObject:
   m_ObjectHideFlags: 0
@@ -5404,11 +5267,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -5420,8 +5279,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
-<<<<<<< Updated upstream
-=======
 --- !u!1 &180117860
 GameObject:
   m_ObjectHideFlags: 0
@@ -5590,7 +5447,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
->>>>>>> Stashed changes
 --- !u!1 &183055126
 GameObject:
   m_ObjectHideFlags: 0
@@ -5663,11 +5519,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -5751,11 +5603,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -5839,11 +5687,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -5855,8 +5699,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
-<<<<<<< Updated upstream
-=======
 --- !u!1 &202919191
 GameObject:
   m_ObjectHideFlags: 0
@@ -5987,7 +5829,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
->>>>>>> Stashed changes
 --- !u!1 &204359037
 GameObject:
   m_ObjectHideFlags: 0
@@ -6060,11 +5901,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -6148,11 +5985,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -6174,10 +6007,7 @@ GameObject:
   m_Component:
   - component: {fileID: 214014429}
   - component: {fileID: 214014430}
-<<<<<<< Updated upstream
-=======
   - component: {fileID: 214014431}
->>>>>>> Stashed changes
   m_Layer: 6
   m_Name: tileBrown_09
   m_TagString: Untagged
@@ -6240,11 +6070,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -6256,8 +6082,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
-<<<<<<< Updated upstream
-=======
 --- !u!61 &214014431
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -6303,7 +6127,6 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.64, y: 0.64}
   m_EdgeRadius: 0
->>>>>>> Stashed changes
 --- !u!1 &222946977
 GameObject:
   m_ObjectHideFlags: 0
@@ -6376,11 +6199,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -6464,9 +6283,6 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -6552,7 +6368,6 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -6636,11 +6451,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -6724,11 +6535,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -6740,8 +6547,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
-<<<<<<< Updated upstream
-=======
 --- !u!1 &241747607
 GameObject:
   m_ObjectHideFlags: 0
@@ -7170,7 +6975,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
->>>>>>> Stashed changes
 --- !u!1 &258315516
 GameObject:
   m_ObjectHideFlags: 0
@@ -7243,11 +7047,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -7331,11 +7131,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -7347,8 +7143,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
-<<<<<<< Updated upstream
-=======
 --- !u!1 &264135444
 GameObject:
   m_ObjectHideFlags: 0
@@ -7479,7 +7273,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
->>>>>>> Stashed changes
 --- !u!1 &264836776
 GameObject:
   m_ObjectHideFlags: 0
@@ -7552,11 +7345,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -7640,11 +7429,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 2
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 0a43c78ae33fbeb4491a4bf37896d477, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -7728,11 +7513,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -7816,9 +7597,6 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 2
-=======
   m_SortingOrder: 1
   m_Sprite: {fileID: 21300000, guid: 0a43c78ae33fbeb4491a4bf37896d477, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -7950,7 +7728,6 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 0a43c78ae33fbeb4491a4bf37896d477, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -8034,9 +7811,6 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -8168,7 +7942,6 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -8183,22 +7956,14 @@ SpriteRenderer:
 --- !u!1 &287695349
 GameObject:
   m_ObjectHideFlags: 0
-<<<<<<< Updated upstream
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-=======
   m_CorrespondingSourceObject: {fileID: 8474797489692688007, guid: 0221cd8bf9ce10246be5296374a6e49c, type: 3}
   m_PrefabInstance: {fileID: 495559759154728956}
->>>>>>> Stashed changes
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
   - component: {fileID: 287695350}
   - component: {fileID: 287695351}
-<<<<<<< Updated upstream
-=======
   - component: {fileID: 287695352}
->>>>>>> Stashed changes
   m_Layer: 6
   m_Name: tileBrown_09 (5)
   m_TagString: Untagged
@@ -8209,41 +7974,23 @@ GameObject:
 --- !u!4 &287695350
 Transform:
   m_ObjectHideFlags: 0
-<<<<<<< Updated upstream
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-=======
   m_CorrespondingSourceObject: {fileID: 6869173561911961505, guid: 0221cd8bf9ce10246be5296374a6e49c, type: 3}
   m_PrefabInstance: {fileID: 495559759154728956}
->>>>>>> Stashed changes
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 287695349}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-<<<<<<< Updated upstream
-  m_LocalPosition: {x: 5.41, y: 1.36, z: 0.23122454}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 333768493}
-=======
   m_LocalPosition: {x: 5.451, y: 1.413, z: 0.23122454}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1100846474}
->>>>>>> Stashed changes
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &287695351
 SpriteRenderer:
   m_ObjectHideFlags: 0
-<<<<<<< Updated upstream
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-=======
   m_CorrespondingSourceObject: {fileID: 6589344958976784059, guid: 0221cd8bf9ce10246be5296374a6e49c, type: 3}
   m_PrefabInstance: {fileID: 495559759154728956}
->>>>>>> Stashed changes
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 287695349}
   m_Enabled: 1
@@ -8279,9 +8026,6 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -8496,7 +8240,6 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -8580,9 +8323,6 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -8801,7 +8541,6 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -8885,11 +8624,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -8973,11 +8708,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -9061,11 +8792,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -9149,11 +8876,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -9237,11 +8960,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -9253,8 +8972,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
-<<<<<<< Updated upstream
-=======
 --- !u!1 &323931161
 GameObject:
   m_ObjectHideFlags: 0
@@ -9469,7 +9186,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
->>>>>>> Stashed changes
 --- !u!1 &333768492
 GameObject:
   m_ObjectHideFlags: 0
@@ -9479,15 +9195,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 333768493}
-<<<<<<< Updated upstream
-  - component: {fileID: 333768498}
-  - component: {fileID: 333768497}
-  - component: {fileID: 333768496}
-  - component: {fileID: 333768495}
-  - component: {fileID: 333768494}
-  - component: {fileID: 333768499}
-=======
->>>>>>> Stashed changes
   m_Layer: 6
   m_Name: Platforms
   m_TagString: Untagged
@@ -9513,18 +9220,6 @@ Transform:
   - {fileID: 1763210525}
   - {fileID: 987626257}
   - {fileID: 371779880}
-<<<<<<< Updated upstream
-  - {fileID: 287695350}
-  m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!61 &333768494
-BoxCollider2D:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 333768492}
-=======
   - {fileID: 1100846474}
   - {fileID: 485056783}
   - {fileID: 1613675559}
@@ -9580,7 +9275,6 @@ BoxCollider2D:
   m_PrefabInstance: {fileID: 495559759154728956}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 335421260}
->>>>>>> Stashed changes
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
@@ -9606,15 +9300,6 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-<<<<<<< Updated upstream
-  m_Offset: {x: 7.809746, y: -0.6033253}
-  m_SpriteTilingProperty:
-    border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0, y: 0}
-    oldSize: {x: 0, y: 0}
-    newSize: {x: 0, y: 0}
-    adaptiveTilingThreshold: 0
-=======
   m_Offset: {x: 0, y: 0}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
@@ -9622,17 +9307,10 @@ BoxCollider2D:
     oldSize: {x: 0.64, y: 0.64}
     newSize: {x: 0.64, y: 0.64}
     adaptiveTilingThreshold: 0.5
->>>>>>> Stashed changes
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-<<<<<<< Updated upstream
-  m_Size: {x: 0.6311989, y: 0.61387193}
-  m_EdgeRadius: 0
---- !u!61 &333768495
-BoxCollider2D:
-=======
   m_Size: {x: 0.64, y: 0.64}
   m_EdgeRadius: 0
 --- !u!212 &335421263
@@ -9689,54 +9367,10 @@ SpriteRenderer:
   m_SpriteSortPoint: 0
 --- !u!1 &335476834
 GameObject:
->>>>>>> Stashed changes
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< Updated upstream
-  m_GameObject: {fileID: 333768492}
-  m_Enabled: 1
-  m_Density: 1
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_ForceSendLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_ForceReceiveLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_ContactCaptureLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_CallbackLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_IsTrigger: 0
-  m_UsedByEffector: 0
-  m_UsedByComposite: 0
-  m_Offset: {x: 10.430245, y: -1.3098657}
-  m_SpriteTilingProperty:
-    border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0, y: 0}
-    oldSize: {x: 0, y: 0}
-    newSize: {x: 0, y: 0}
-    adaptiveTilingThreshold: 0
-    drawMode: 0
-    adaptiveTiling: 0
-  m_AutoTiling: 0
-  serializedVersion: 2
-  m_Size: {x: 0.6370449, y: 0.6328616}
-  m_EdgeRadius: 0
---- !u!61 &333768496
-BoxCollider2D:
-=======
   serializedVersion: 6
   m_Component:
   - component: {fileID: 335476835}
@@ -9750,54 +9384,10 @@ BoxCollider2D:
   m_IsActive: 1
 --- !u!4 &335476835
 Transform:
->>>>>>> Stashed changes
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< Updated upstream
-  m_GameObject: {fileID: 333768492}
-  m_Enabled: 1
-  m_Density: 1
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_ForceSendLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_ForceReceiveLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_ContactCaptureLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_CallbackLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_IsTrigger: 0
-  m_UsedByEffector: 0
-  m_UsedByComposite: 0
-  m_Offset: {x: 13.190836, y: -1.8205388}
-  m_SpriteTilingProperty:
-    border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0, y: 0}
-    oldSize: {x: 0, y: 0}
-    newSize: {x: 0, y: 0}
-    adaptiveTilingThreshold: 0
-    drawMode: 0
-    adaptiveTiling: 0
-  m_AutoTiling: 0
-  serializedVersion: 2
-  m_Size: {x: 0.63421345, y: 0.635046}
-  m_EdgeRadius: 0
---- !u!61 &333768497
-BoxCollider2D:
-=======
   m_GameObject: {fileID: 335476834}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
@@ -9809,54 +9399,10 @@ BoxCollider2D:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &335476836
 SpriteRenderer:
->>>>>>> Stashed changes
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< Updated upstream
-  m_GameObject: {fileID: 333768492}
-  m_Enabled: 1
-  m_Density: 1
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_ForceSendLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_ForceReceiveLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_ContactCaptureLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_CallbackLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_IsTrigger: 0
-  m_UsedByEffector: 0
-  m_UsedByComposite: 0
-  m_Offset: {x: 15.739294, y: -2.4271288}
-  m_SpriteTilingProperty:
-    border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0, y: 0}
-    oldSize: {x: 0, y: 0}
-    newSize: {x: 0, y: 0}
-    adaptiveTilingThreshold: 0
-    drawMode: 0
-    adaptiveTiling: 0
-  m_AutoTiling: 0
-  serializedVersion: 2
-  m_Size: {x: 0.64928436, y: 0.6409874}
-  m_EdgeRadius: 0
---- !u!61 &333768498
-BoxCollider2D:
-=======
   m_GameObject: {fileID: 335476834}
   m_Enabled: 1
   m_CastShadows: 0
@@ -9905,54 +9451,10 @@ BoxCollider2D:
   m_SpriteSortPoint: 0
 --- !u!1 &342502807
 GameObject:
->>>>>>> Stashed changes
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< Updated upstream
-  m_GameObject: {fileID: 333768492}
-  m_Enabled: 1
-  m_Density: 1
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_ForceSendLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_ForceReceiveLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_ContactCaptureLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_CallbackLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_IsTrigger: 0
-  m_UsedByEffector: 0
-  m_UsedByComposite: 0
-  m_Offset: {x: 18.1734, y: -2.9057872}
-  m_SpriteTilingProperty:
-    border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0, y: 0}
-    oldSize: {x: 0, y: 0}
-    newSize: {x: 0, y: 0}
-    adaptiveTilingThreshold: 0
-    drawMode: 0
-    adaptiveTiling: 0
-  m_AutoTiling: 0
-  serializedVersion: 2
-  m_Size: {x: 0.6549072, y: 0.63620996}
-  m_EdgeRadius: 0
---- !u!61 &333768499
-BoxCollider2D:
-=======
   serializedVersion: 6
   m_Component:
   - component: {fileID: 342502808}
@@ -9966,52 +9468,10 @@ BoxCollider2D:
   m_IsActive: 1
 --- !u!4 &342502808
 Transform:
->>>>>>> Stashed changes
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< Updated upstream
-  m_GameObject: {fileID: 333768492}
-  m_Enabled: 1
-  m_Density: 1
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_ForceSendLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_ForceReceiveLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_ContactCaptureLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_CallbackLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_IsTrigger: 0
-  m_UsedByEffector: 0
-  m_UsedByComposite: 0
-  m_Offset: {x: 5.413967, y: 1.3567419}
-  m_SpriteTilingProperty:
-    border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0, y: 0}
-    oldSize: {x: 0, y: 0}
-    newSize: {x: 0, y: 0}
-    adaptiveTilingThreshold: 0
-    drawMode: 0
-    adaptiveTiling: 0
-  m_AutoTiling: 0
-  serializedVersion: 2
-  m_Size: {x: 0.6286545, y: 0.6301198}
-  m_EdgeRadius: 0
-=======
   m_GameObject: {fileID: 342502807}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
@@ -10073,7 +9533,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
->>>>>>> Stashed changes
 --- !u!1 &345515599
 GameObject:
   m_ObjectHideFlags: 0
@@ -10146,11 +9605,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -10234,11 +9689,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -10250,8 +9701,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
-<<<<<<< Updated upstream
-=======
 --- !u!1 &358939172
 GameObject:
   m_ObjectHideFlags: 0
@@ -10596,7 +10045,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
->>>>>>> Stashed changes
 --- !u!1 &360779561
 GameObject:
   m_ObjectHideFlags: 0
@@ -10669,11 +10117,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -10757,11 +10201,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -10845,11 +10285,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -10861,8 +10297,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
-<<<<<<< Updated upstream
-=======
 --- !u!1 &366689732
 GameObject:
   m_ObjectHideFlags: 0
@@ -10993,7 +10427,6 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.64, y: 0.64}
   m_EdgeRadius: 0
->>>>>>> Stashed changes
 --- !u!1 &371779879
 GameObject:
   m_ObjectHideFlags: 0
@@ -11004,10 +10437,7 @@ GameObject:
   m_Component:
   - component: {fileID: 371779880}
   - component: {fileID: 371779881}
-<<<<<<< Updated upstream
-=======
   - component: {fileID: 371779882}
->>>>>>> Stashed changes
   m_Layer: 6
   m_Name: tileBrown_09 (4)
   m_TagString: Untagged
@@ -11070,11 +10500,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -11086,8 +10512,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
-<<<<<<< Updated upstream
-=======
 --- !u!61 &371779882
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -11133,7 +10557,6 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.64, y: 0.64}
   m_EdgeRadius: 0
->>>>>>> Stashed changes
 --- !u!1 &372205418
 GameObject:
   m_ObjectHideFlags: 0
@@ -11206,11 +10629,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -11294,11 +10713,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -11382,9 +10797,6 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -11554,7 +10966,6 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -11638,9 +11049,6 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -11856,7 +11264,6 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -11940,11 +11347,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -12028,11 +11431,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -12116,11 +11515,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -12204,11 +11599,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -12292,9 +11683,6 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -12464,7 +11852,6 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -12548,11 +11935,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 2
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 0a43c78ae33fbeb4491a4bf37896d477, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -12564,8 +11947,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
-<<<<<<< Updated upstream
-=======
 --- !u!1 &425457366
 GameObject:
   m_ObjectHideFlags: 0
@@ -12650,7 +12031,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
->>>>>>> Stashed changes
 --- !u!1 &434370059
 GameObject:
   m_ObjectHideFlags: 0
@@ -12723,9 +12103,6 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -12811,7 +12188,6 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -12895,11 +12271,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -12983,9 +12355,6 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -13071,7 +12440,6 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -13155,11 +12523,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -13243,11 +12607,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -13331,11 +12691,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -13419,11 +12775,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -13507,11 +12859,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -13523,8 +12871,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
-<<<<<<< Updated upstream
-=======
 --- !u!1 &485056782
 GameObject:
   m_ObjectHideFlags: 0
@@ -13574,7 +12920,6 @@ Transform:
   - {fileID: 1961569920}
   m_Father: {fileID: 333768493}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
->>>>>>> Stashed changes
 --- !u!1 &490080173
 GameObject:
   m_ObjectHideFlags: 0
@@ -13647,11 +12992,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -13735,11 +13076,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -13751,8 +13088,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
-<<<<<<< Updated upstream
-=======
 --- !u!1 &494122093
 GameObject:
   m_ObjectHideFlags: 0
@@ -13883,7 +13218,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
->>>>>>> Stashed changes
 --- !u!1 &497015939
 GameObject:
   m_ObjectHideFlags: 0
@@ -13956,11 +13290,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 2
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 0a43c78ae33fbeb4491a4bf37896d477, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -13972,8 +13302,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
-<<<<<<< Updated upstream
-=======
 --- !u!1 &502828047
 GameObject:
   m_ObjectHideFlags: 0
@@ -14188,7 +13516,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
->>>>>>> Stashed changes
 --- !u!1 &504013912
 GameObject:
   m_ObjectHideFlags: 0
@@ -14261,9 +13588,6 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -14395,7 +13719,6 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -14479,11 +13802,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -14567,11 +13886,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -14583,8 +13898,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
-<<<<<<< Updated upstream
-=======
 --- !u!1 &508677785
 GameObject:
   m_ObjectHideFlags: 0
@@ -14975,7 +14288,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
->>>>>>> Stashed changes
 --- !u!1 &519420028
 GameObject:
   m_ObjectHideFlags: 0
@@ -15012,11 +14324,7 @@ Camera:
   m_Enabled: 1
   serializedVersion: 2
   m_ClearFlags: 2
-<<<<<<< Updated upstream
-  m_BackGroundColor: {r: 0.3018868, g: 0.02916701, b: 0, a: 0}
-=======
   m_BackGroundColor: {r: 0.37647063, g: 0.043137256, b: 0.04705883, a: 0}
->>>>>>> Stashed changes
   m_projectionMatrixMode: 1
   m_GateFitMode: 2
   m_FOVAxisMode: 0
@@ -15072,8 +14380,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 1637381359}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-<<<<<<< Updated upstream
-=======
 --- !u!1 &527972384
 GameObject:
   m_ObjectHideFlags: 0
@@ -15207,7 +14513,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
->>>>>>> Stashed changes
 --- !u!1 &531407109
 GameObject:
   m_ObjectHideFlags: 0
@@ -15280,11 +14585,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 2
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 0a43c78ae33fbeb4491a4bf37896d477, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -15296,8 +14597,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
-<<<<<<< Updated upstream
-=======
 --- !u!1 &535968841
 GameObject:
   m_ObjectHideFlags: 0
@@ -15428,7 +14727,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
->>>>>>> Stashed changes
 --- !u!1 &540997175
 GameObject:
   m_ObjectHideFlags: 0
@@ -15501,9 +14799,6 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -15803,7 +15098,6 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -15887,11 +15181,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -15975,11 +15265,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 2
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 0a43c78ae33fbeb4491a4bf37896d477, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -15991,8 +15277,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
-<<<<<<< Updated upstream
-=======
 --- !u!1001 &572639366
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -16194,7 +15478,6 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0221cd8bf9ce10246be5296374a6e49c, type: 3}
->>>>>>> Stashed changes
 --- !u!1 &585439066
 GameObject:
   m_ObjectHideFlags: 0
@@ -16267,11 +15550,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -16283,8 +15562,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
-<<<<<<< Updated upstream
-=======
 --- !u!1 &592537058
 GameObject:
   m_ObjectHideFlags: 0
@@ -16545,7 +15822,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
->>>>>>> Stashed changes
 --- !u!1 &623766062
 GameObject:
   m_ObjectHideFlags: 0
@@ -16747,8 +16023,6 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.40432358, y: 0.6983919}
   m_EdgeRadius: 0
-<<<<<<< Updated upstream
-=======
 --- !u!1 &635284727
 GameObject:
   m_ObjectHideFlags: 0
@@ -17210,7 +16484,6 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0221cd8bf9ce10246be5296374a6e49c, type: 3}
->>>>>>> Stashed changes
 --- !u!1 &663249738
 GameObject:
   m_ObjectHideFlags: 0
@@ -17283,11 +16556,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 2
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 0a43c78ae33fbeb4491a4bf37896d477, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -17371,11 +16640,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -17459,11 +16724,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -17547,9 +16808,6 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -17765,7 +17023,6 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -17849,11 +17106,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -17937,9 +17190,6 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -18025,7 +17275,6 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -18109,11 +17358,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -18125,8 +17370,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
-<<<<<<< Updated upstream
-=======
 --- !u!1 &696768463
 GameObject:
   m_ObjectHideFlags: 0
@@ -18257,7 +17500,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
->>>>>>> Stashed changes
 --- !u!1 &698315656
 GameObject:
   m_ObjectHideFlags: 0
@@ -18330,11 +17572,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 2
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 0a43c78ae33fbeb4491a4bf37896d477, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -18418,11 +17656,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -18434,8 +17668,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
-<<<<<<< Updated upstream
-=======
 --- !u!1 &706060766
 GameObject:
   m_ObjectHideFlags: 0
@@ -18515,7 +17747,6 @@ Transform:
   - {fileID: 256701720}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
->>>>>>> Stashed changes
 --- !u!1 &713471716
 GameObject:
   m_ObjectHideFlags: 0
@@ -18588,9 +17819,6 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -18722,7 +17950,6 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -18806,11 +18033,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -18894,11 +18117,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -18982,11 +18201,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -19101,9 +18316,6 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -19189,7 +18401,6 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -19273,11 +18484,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -19361,11 +18568,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -19449,11 +18652,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -19537,9 +18736,6 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -19625,7 +18821,6 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -19709,11 +18904,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -19725,8 +18916,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
-<<<<<<< Updated upstream
-=======
 --- !u!1 &765475323
 GameObject:
   m_ObjectHideFlags: 0
@@ -20025,7 +19214,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
->>>>>>> Stashed changes
 --- !u!1 &775120627
 GameObject:
   m_ObjectHideFlags: 0
@@ -20098,11 +19286,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -20186,11 +19370,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -20202,8 +19382,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
-<<<<<<< Updated upstream
-=======
 --- !u!1 &777429608
 GameObject:
   m_ObjectHideFlags: 0
@@ -20334,7 +19512,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
->>>>>>> Stashed changes
 --- !u!1 &783170081
 GameObject:
   m_ObjectHideFlags: 0
@@ -20407,11 +19584,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -20495,11 +19668,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -20583,9 +19752,6 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -20671,7 +19837,6 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -20755,11 +19920,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -20843,11 +20004,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -20859,8 +20016,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
-<<<<<<< Updated upstream
-=======
 --- !u!1 &823750641
 GameObject:
   m_ObjectHideFlags: 0
@@ -20945,7 +20100,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
->>>>>>> Stashed changes
 --- !u!1 &824196980
 GameObject:
   m_ObjectHideFlags: 0
@@ -21018,11 +20172,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -21034,8 +20184,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
-<<<<<<< Updated upstream
-=======
 --- !u!1 &829364790
 GameObject:
   m_ObjectHideFlags: 0
@@ -21166,7 +20314,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
->>>>>>> Stashed changes
 --- !u!1 &830587720
 GameObject:
   m_ObjectHideFlags: 0
@@ -21239,9 +20386,6 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -21327,7 +20471,6 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -21411,9 +20554,6 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -21499,7 +20639,6 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -21583,9 +20722,6 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -21755,7 +20891,6 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -21839,11 +20974,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -21927,11 +21058,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -22015,11 +21142,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -22103,11 +21226,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 2
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 0a43c78ae33fbeb4491a4bf37896d477, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -22119,8 +21238,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
-<<<<<<< Updated upstream
-=======
 --- !u!1 &885132822
 GameObject:
   m_ObjectHideFlags: 0
@@ -22205,7 +21322,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
->>>>>>> Stashed changes
 --- !u!1 &900655090
 GameObject:
   m_ObjectHideFlags: 0
@@ -22278,11 +21394,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -22366,11 +21478,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -22454,11 +21562,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -22542,11 +21646,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -22630,11 +21730,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 2
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 0a43c78ae33fbeb4491a4bf37896d477, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -22646,8 +21742,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
-<<<<<<< Updated upstream
-=======
 --- !u!1 &921263281
 GameObject:
   m_ObjectHideFlags: 0
@@ -22862,7 +21956,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
->>>>>>> Stashed changes
 --- !u!1 &934161113
 GameObject:
   m_ObjectHideFlags: 0
@@ -22935,11 +22028,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -23023,11 +22112,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -23111,11 +22196,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -23199,11 +22280,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -23215,8 +22292,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
-<<<<<<< Updated upstream
-=======
 --- !u!1 &953340428
 GameObject:
   m_ObjectHideFlags: 0
@@ -23477,7 +22552,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
->>>>>>> Stashed changes
 --- !u!1 &956541000
 GameObject:
   m_ObjectHideFlags: 0
@@ -23550,11 +22624,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -23638,11 +22708,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -23726,11 +22792,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -23814,11 +22876,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -23902,11 +22960,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 2
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 0a43c78ae33fbeb4491a4bf37896d477, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -23918,8 +22972,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
-<<<<<<< Updated upstream
-=======
 --- !u!1 &984563514
 GameObject:
   m_ObjectHideFlags: 0
@@ -24134,7 +23186,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
->>>>>>> Stashed changes
 --- !u!1 &987626256
 GameObject:
   m_ObjectHideFlags: 0
@@ -24145,10 +23196,7 @@ GameObject:
   m_Component:
   - component: {fileID: 987626257}
   - component: {fileID: 987626258}
-<<<<<<< Updated upstream
-=======
   - component: {fileID: 987626259}
->>>>>>> Stashed changes
   m_Layer: 6
   m_Name: tileBrown_09 (3)
   m_TagString: Untagged
@@ -24211,11 +23259,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -24227,8 +23271,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
-<<<<<<< Updated upstream
-=======
 --- !u!61 &987626259
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -24274,7 +23316,6 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.64, y: 0.64}
   m_EdgeRadius: 0
->>>>>>> Stashed changes
 --- !u!1 &999197798
 GameObject:
   m_ObjectHideFlags: 0
@@ -24347,11 +23388,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -24435,11 +23472,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -24523,11 +23556,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -24539,8 +23568,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
-<<<<<<< Updated upstream
-=======
 --- !u!1 &1008289378
 GameObject:
   m_ObjectHideFlags: 0
@@ -24625,7 +23652,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
->>>>>>> Stashed changes
 --- !u!1 &1009805660
 GameObject:
   m_ObjectHideFlags: 0
@@ -24698,9 +23724,6 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -24786,7 +23809,6 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -24870,11 +23892,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -24958,11 +23976,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -25046,11 +24060,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -25062,8 +24072,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
-<<<<<<< Updated upstream
-=======
 --- !u!1 &1023716913
 GameObject:
   m_ObjectHideFlags: 0
@@ -25194,7 +24202,6 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.64, y: 0.64}
   m_EdgeRadius: 0
->>>>>>> Stashed changes
 --- !u!1 &1032480827
 GameObject:
   m_ObjectHideFlags: 0
@@ -25267,11 +24274,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 2
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 0a43c78ae33fbeb4491a4bf37896d477, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -25283,8 +24286,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
-<<<<<<< Updated upstream
-=======
 --- !u!1 &1033394234
 GameObject:
   m_ObjectHideFlags: 0
@@ -25583,7 +24584,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
->>>>>>> Stashed changes
 --- !u!1 &1055442617
 GameObject:
   m_ObjectHideFlags: 0
@@ -25656,11 +24656,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -25744,9 +24740,6 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 2
-=======
   m_SortingOrder: 1
   m_Sprite: {fileID: 21300000, guid: 0a43c78ae33fbeb4491a4bf37896d477, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -26008,7 +25001,6 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 3
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 0a43c78ae33fbeb4491a4bf37896d477, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -26092,11 +25084,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -26180,11 +25168,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -26268,11 +25252,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -26284,8 +25264,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
-<<<<<<< Updated upstream
-=======
 --- !u!1 &1097654660
 GameObject:
   m_ObjectHideFlags: 0
@@ -26419,7 +25397,6 @@ Transform:
   - {fileID: 1203855850}
   m_Father: {fileID: 333768493}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
->>>>>>> Stashed changes
 --- !u!1 &1101562122
 GameObject:
   m_ObjectHideFlags: 0
@@ -26492,11 +25469,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -26580,9 +25553,6 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -26882,7 +25852,6 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -26966,11 +25935,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -26982,8 +25947,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
-<<<<<<< Updated upstream
-=======
 --- !u!1 &1120313907
 GameObject:
   m_ObjectHideFlags: 0
@@ -27282,7 +26245,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
->>>>>>> Stashed changes
 --- !u!1 &1135709227
 GameObject:
   m_ObjectHideFlags: 0
@@ -27355,11 +26317,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -27443,11 +26401,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -27531,11 +26485,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -27547,8 +26497,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
-<<<<<<< Updated upstream
-=======
 --- !u!1 &1162130785
 GameObject:
   m_ObjectHideFlags: 0
@@ -27939,7 +26887,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
->>>>>>> Stashed changes
 --- !u!1 &1182404284
 GameObject:
   m_ObjectHideFlags: 0
@@ -28012,9 +26959,6 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -28100,7 +27044,6 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -28184,11 +27127,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -28272,11 +27211,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -28360,11 +27295,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 2
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 0a43c78ae33fbeb4491a4bf37896d477, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -28448,9 +27379,6 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -28666,7 +27594,6 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -28750,9 +27677,6 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -28838,7 +27762,6 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -28922,11 +27845,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -29010,9 +27929,6 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -29144,7 +28060,6 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -29228,9 +28143,6 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -29362,7 +28274,6 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -29446,11 +28357,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -29534,11 +28441,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -29622,11 +28525,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -29710,9 +28609,6 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -29844,7 +28740,6 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -29928,11 +28823,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -30016,11 +28907,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -30104,11 +28991,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -30120,8 +29003,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
-<<<<<<< Updated upstream
-=======
 --- !u!1 &1295772001
 GameObject:
   m_ObjectHideFlags: 0
@@ -30512,7 +29393,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
->>>>>>> Stashed changes
 --- !u!1 &1302021310
 GameObject:
   m_ObjectHideFlags: 0
@@ -30585,11 +29465,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -30601,8 +29477,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
-<<<<<<< Updated upstream
-=======
 --- !u!1001 &1310487779
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -30802,7 +29676,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
->>>>>>> Stashed changes
 --- !u!1 &1320529796
 GameObject:
   m_ObjectHideFlags: 0
@@ -30875,9 +29748,6 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -31009,7 +29879,6 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -31093,11 +29962,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -31181,9 +30046,6 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -31269,7 +30131,6 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -31353,9 +30214,6 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -31571,7 +30429,6 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -31655,11 +30512,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -31743,11 +30596,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 2
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 0a43c78ae33fbeb4491a4bf37896d477, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -31831,9 +30680,6 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -32225,7 +31071,6 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -32309,11 +31154,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -32397,11 +31238,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -32485,9 +31322,6 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -32657,7 +31491,6 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -32741,9 +31574,6 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -32829,7 +31659,6 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -32913,11 +31742,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 2
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 0a43c78ae33fbeb4491a4bf37896d477, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -33001,11 +31826,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -33089,11 +31910,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -33177,11 +31994,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -33265,11 +32078,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -33353,9 +32162,6 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -33441,7 +32247,6 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -33525,11 +32330,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -33613,11 +32414,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -33701,9 +32498,6 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -33919,7 +32713,6 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -34003,11 +32796,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -34091,9 +32880,6 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -34179,7 +32965,6 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -34263,11 +33048,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -34279,8 +33060,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
-<<<<<<< Updated upstream
-=======
 --- !u!1 &1452381538
 GameObject:
   m_ObjectHideFlags: 0
@@ -34411,7 +33190,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
->>>>>>> Stashed changes
 --- !u!1 &1452688496
 GameObject:
   m_ObjectHideFlags: 0
@@ -34484,11 +33262,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -34572,11 +33346,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -34588,8 +33358,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
-<<<<<<< Updated upstream
-=======
 --- !u!1 &1458529566
 GameObject:
   m_ObjectHideFlags: 0
@@ -34720,7 +33488,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
->>>>>>> Stashed changes
 --- !u!1 &1462058563
 GameObject:
   m_ObjectHideFlags: 0
@@ -34793,11 +33560,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -34881,11 +33644,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 2
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 0a43c78ae33fbeb4491a4bf37896d477, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -34969,11 +33728,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -35057,11 +33812,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -35145,11 +33896,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -35233,11 +33980,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 2
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 0a43c78ae33fbeb4491a4bf37896d477, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -35249,8 +33992,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
-<<<<<<< Updated upstream
-=======
 --- !u!1 &1488608557
 GameObject:
   m_ObjectHideFlags: 0
@@ -35335,7 +34076,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
->>>>>>> Stashed changes
 --- !u!1 &1489156096
 GameObject:
   m_ObjectHideFlags: 0
@@ -35408,11 +34148,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -35424,8 +34160,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
-<<<<<<< Updated upstream
-=======
 --- !u!1 &1489269863
 GameObject:
   m_ObjectHideFlags: 0
@@ -36114,7 +34848,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
->>>>>>> Stashed changes
 --- !u!1 &1509967446
 GameObject:
   m_ObjectHideFlags: 0
@@ -36187,11 +34920,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -36275,9 +35004,6 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -36615,7 +35341,6 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -36699,11 +35424,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -36787,11 +35508,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -36803,8 +35520,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
-<<<<<<< Updated upstream
-=======
 --- !u!1 &1524687937
 GameObject:
   m_ObjectHideFlags: 0
@@ -36935,7 +35650,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
->>>>>>> Stashed changes
 --- !u!1 &1531706400
 GameObject:
   m_ObjectHideFlags: 0
@@ -37008,11 +35722,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -37096,11 +35806,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -37184,11 +35890,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -37200,8 +35902,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
-<<<<<<< Updated upstream
-=======
 --- !u!1001 &1560371154
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -37403,7 +36103,6 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0221cd8bf9ce10246be5296374a6e49c, type: 3}
->>>>>>> Stashed changes
 --- !u!1 &1567480973
 GameObject:
   m_ObjectHideFlags: 0
@@ -37476,11 +36175,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -37564,11 +36259,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -37652,11 +36343,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -37678,10 +36365,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1576084117}
   - component: {fileID: 1576084118}
-<<<<<<< Updated upstream
-=======
   - component: {fileID: 1576084119}
->>>>>>> Stashed changes
   m_Layer: 6
   m_Name: tileBrown_09 (1)
   m_TagString: Untagged
@@ -37744,11 +36428,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -37760,8 +36440,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
-<<<<<<< Updated upstream
-=======
 --- !u!61 &1576084119
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -37937,7 +36615,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
->>>>>>> Stashed changes
 --- !u!1 &1603270494
 GameObject:
   m_ObjectHideFlags: 0
@@ -38010,11 +36687,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -38098,9 +36771,6 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -38411,7 +37081,6 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -38480,11 +37149,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 2
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 672bb93511dba184299520e8ff064561, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -38644,11 +37309,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 3
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 357b2f6ea197f7434bfc3e2d8b0db850, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -38669,11 +37330,7 @@ Transform:
   m_GameObject: {fileID: 1637381355}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-<<<<<<< Updated upstream
-  m_LocalPosition: {x: 0, y: -3.75, z: 0}
-=======
   m_LocalPosition: {x: 1.24, y: -3.89, z: 0}
->>>>>>> Stashed changes
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -38699,12 +37356,9 @@ MonoBehaviour:
   whatIsTerrain:
     serializedVersion: 2
     m_Bits: 64
-<<<<<<< Updated upstream
-=======
   whatIsWater:
     serializedVersion: 2
     m_Bits: 0
->>>>>>> Stashed changes
   animator: {fileID: 1637381361}
 --- !u!95 &1637381361
 Animator:
@@ -38799,11 +37453,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -38815,8 +37465,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
-<<<<<<< Updated upstream
-=======
 --- !u!1 &1638522255
 GameObject:
   m_ObjectHideFlags: 0
@@ -39207,7 +37855,6 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.64, y: 0.64}
   m_EdgeRadius: 0
->>>>>>> Stashed changes
 --- !u!1 &1677584193
 GameObject:
   m_ObjectHideFlags: 0
@@ -39280,11 +37927,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -39307,10 +37950,7 @@ GameObject:
   - component: {fileID: 1684633780}
   - component: {fileID: 1684633781}
   - component: {fileID: 1684633782}
-<<<<<<< Updated upstream
-=======
   - component: {fileID: 1684633783}
->>>>>>> Stashed changes
   m_Layer: 6
   m_Name: Ground
   m_TagString: Untagged
@@ -39553,8 +38193,6 @@ Transform:
   - {fileID: 2139317723}
   - {fileID: 1452688497}
   - {fileID: 400915481}
-<<<<<<< Updated upstream
-=======
   - {fileID: 7009367}
   - {fileID: 1701926471}
   - {fileID: 1105679059}
@@ -39643,7 +38281,6 @@ Transform:
   - {fileID: 94093198}
   - {fileID: 1965098897}
   - {fileID: 1800286719}
->>>>>>> Stashed changes
   - {fileID: 2077163458}
   - {fileID: 843284480}
   - {fileID: 1391618077}
@@ -39670,13 +38307,10 @@ Transform:
   - {fileID: 851381916}
   - {fileID: 683364647}
   - {fileID: 349142760}
-<<<<<<< Updated upstream
-=======
   - {fileID: 53904803}
   - {fileID: 384615638}
   - {fileID: 65253982}
   - {fileID: 1848693791}
->>>>>>> Stashed changes
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1684633781
@@ -39769,8 +38403,6 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 17.902939, y: 1.2653923}
   m_EdgeRadius: 0
-<<<<<<< Updated upstream
-=======
 --- !u!61 &1684633783
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -39984,7 +38616,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
->>>>>>> Stashed changes
 --- !u!1 &1699461733
 GameObject:
   m_ObjectHideFlags: 0
@@ -40057,11 +38688,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -40145,9 +38772,6 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -40233,7 +38857,6 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -40317,11 +38940,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -40333,8 +38952,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
-<<<<<<< Updated upstream
-=======
 --- !u!1 &1714554112
 GameObject:
   m_ObjectHideFlags: 0
@@ -40465,7 +39082,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
->>>>>>> Stashed changes
 --- !u!1 &1715264491
 GameObject:
   m_ObjectHideFlags: 0
@@ -40538,11 +39154,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -40626,11 +39238,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -40714,11 +39322,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 2
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 0a43c78ae33fbeb4491a4bf37896d477, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -40802,11 +39406,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -40890,11 +39490,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -40978,11 +39574,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -41066,11 +39658,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -41154,11 +39742,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -41180,10 +39764,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1763210525}
   - component: {fileID: 1763210526}
-<<<<<<< Updated upstream
-=======
   - component: {fileID: 1763210527}
->>>>>>> Stashed changes
   m_Layer: 6
   m_Name: tileBrown_09 (2)
   m_TagString: Untagged
@@ -41246,9 +39827,6 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -41593,7 +40171,6 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -41677,11 +40254,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -41765,9 +40338,6 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -41853,7 +40423,6 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -41937,9 +40506,6 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -42025,7 +40591,6 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -42109,11 +40674,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 2
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 0a43c78ae33fbeb4491a4bf37896d477, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -42125,8 +40686,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
-<<<<<<< Updated upstream
-=======
 --- !u!1 &1813484587
 GameObject:
   m_ObjectHideFlags: 0
@@ -42257,7 +40816,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
->>>>>>> Stashed changes
 --- !u!1 &1818374459
 GameObject:
   m_ObjectHideFlags: 0
@@ -42330,9 +40888,6 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -42464,7 +41019,6 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -42548,11 +41102,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -42636,11 +41186,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -42724,11 +41270,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 2
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 0a43c78ae33fbeb4491a4bf37896d477, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -42812,11 +41354,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -42900,11 +41438,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -42988,11 +41522,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -43004,8 +41534,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
-<<<<<<< Updated upstream
-=======
 --- !u!1 &1845214013
 GameObject:
   m_ObjectHideFlags: 0
@@ -43136,7 +41664,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
->>>>>>> Stashed changes
 --- !u!1 &1846620354
 GameObject:
   m_ObjectHideFlags: 0
@@ -43209,9 +41736,6 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -43297,7 +41821,6 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -43381,11 +41904,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -43469,11 +41988,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -43485,8 +42000,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
-<<<<<<< Updated upstream
-=======
 --- !u!1 &1868840959
 GameObject:
   m_ObjectHideFlags: 0
@@ -43617,7 +42130,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
->>>>>>> Stashed changes
 --- !u!1 &1877231332
 GameObject:
   m_ObjectHideFlags: 0
@@ -43690,11 +42202,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -43706,8 +42214,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
-<<<<<<< Updated upstream
-=======
 --- !u!1 &1878997979
 GameObject:
   m_ObjectHideFlags: 0
@@ -43968,7 +42474,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
->>>>>>> Stashed changes
 --- !u!1 &1888039736
 GameObject:
   m_ObjectHideFlags: 0
@@ -44041,11 +42546,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -44129,11 +42630,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -44217,11 +42714,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -44305,11 +42798,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -44393,11 +42882,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 2
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 0a43c78ae33fbeb4491a4bf37896d477, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -44409,8 +42894,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
-<<<<<<< Updated upstream
-=======
 --- !u!1 &1913430780
 GameObject:
   m_ObjectHideFlags: 0
@@ -44495,7 +42978,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
->>>>>>> Stashed changes
 --- !u!1 &1923717229
 GameObject:
   m_ObjectHideFlags: 0
@@ -44568,9 +43050,6 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -44702,7 +43181,6 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -44786,9 +43264,6 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -45004,7 +43479,6 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -45088,11 +43562,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -45176,11 +43646,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -45276,8 +43742,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
-<<<<<<< Updated upstream
-=======
 --- !u!1 &1954166220
 GameObject:
   m_ObjectHideFlags: 0
@@ -45362,7 +43826,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
->>>>>>> Stashed changes
 --- !u!1 &1960818371
 GameObject:
   m_ObjectHideFlags: 0
@@ -45435,11 +43898,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -45451,8 +43910,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
-<<<<<<< Updated upstream
-=======
 --- !u!1 &1961569919
 GameObject:
   m_ObjectHideFlags: 0
@@ -45583,7 +44040,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
->>>>>>> Stashed changes
 --- !u!1 &1963621456
 GameObject:
   m_ObjectHideFlags: 0
@@ -45656,9 +44112,6 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -45958,7 +44411,6 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -46042,11 +44494,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -46130,11 +44578,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -46146,8 +44590,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
-<<<<<<< Updated upstream
-=======
 --- !u!1 &1980245871
 GameObject:
   m_ObjectHideFlags: 0
@@ -46278,7 +44720,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
->>>>>>> Stashed changes
 --- !u!1 &1983981590
 GameObject:
   m_ObjectHideFlags: 0
@@ -46351,11 +44792,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -46439,11 +44876,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -46455,8 +44888,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
-<<<<<<< Updated upstream
-=======
 --- !u!1 &1989695629
 GameObject:
   m_ObjectHideFlags: 0
@@ -46587,7 +45018,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
->>>>>>> Stashed changes
 --- !u!1 &2005954241
 GameObject:
   m_ObjectHideFlags: 0
@@ -46660,11 +45090,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -46748,11 +45174,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 2
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 0a43c78ae33fbeb4491a4bf37896d477, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -46836,11 +45258,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 2
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 0a43c78ae33fbeb4491a4bf37896d477, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -46852,8 +45270,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
-<<<<<<< Updated upstream
-=======
 --- !u!1 &2029039559
 GameObject:
   m_ObjectHideFlags: 0
@@ -47068,7 +45484,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
->>>>>>> Stashed changes
 --- !u!1 &2037348736
 GameObject:
   m_ObjectHideFlags: 0
@@ -47141,11 +45556,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -47229,9 +45640,6 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -47317,7 +45725,6 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -47401,11 +45808,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -47489,11 +45892,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -47577,11 +45976,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -47593,8 +45988,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
-<<<<<<< Updated upstream
-=======
 --- !u!1 &2077760649
 GameObject:
   m_ObjectHideFlags: 0
@@ -47725,7 +46118,6 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.64, y: 0.48163038}
   m_EdgeRadius: 0
->>>>>>> Stashed changes
 --- !u!1 &2077888263
 GameObject:
   m_ObjectHideFlags: 0
@@ -47798,11 +46190,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 2
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 0a43c78ae33fbeb4491a4bf37896d477, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -47886,11 +46274,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -47974,11 +46358,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -48062,11 +46442,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -48150,11 +46526,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -48238,9 +46610,6 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -48372,7 +46741,6 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -48456,9 +46824,6 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -48628,7 +46993,6 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -48712,11 +47076,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -48728,8 +47088,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
-<<<<<<< Updated upstream
-=======
 --- !u!1 &2115761295
 GameObject:
   m_ObjectHideFlags: 0
@@ -48860,7 +47218,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
->>>>>>> Stashed changes
 --- !u!1 &2122984574
 GameObject:
   m_ObjectHideFlags: 0
@@ -48933,11 +47290,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 2
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 0a43c78ae33fbeb4491a4bf37896d477, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -49021,11 +47374,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 2
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 0a43c78ae33fbeb4491a4bf37896d477, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -49037,8 +47386,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
-<<<<<<< Updated upstream
-=======
 --- !u!1 &2131417771
 GameObject:
   m_ObjectHideFlags: 0
@@ -49275,7 +47622,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
->>>>>>> Stashed changes
 --- !u!1 &2139317722
 GameObject:
   m_ObjectHideFlags: 0
@@ -49348,11 +47694,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -49436,11 +47778,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-<<<<<<< Updated upstream
-  m_SortingOrder: 0
-=======
   m_SortingOrder: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 21300000, guid: 915f0c86070eeca4682edbff5f952fe6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -49452,8 +47790,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
-<<<<<<< Updated upstream
-=======
 --- !u!1001 &495559759154728956
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -49515,7 +47851,6 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0221cd8bf9ce10246be5296374a6e49c, type: 3}
->>>>>>> Stashed changes
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
@@ -49524,10 +47859,7 @@ SceneRoots:
   - {fileID: 1637381359}
   - {fileID: 623766063}
   - {fileID: 333768493}
-<<<<<<< Updated upstream
-=======
   - {fileID: 2131417774}
   - {fileID: 66145331}
   - {fileID: 706060768}
   - {fileID: 358939174}
->>>>>>> Stashed changes
