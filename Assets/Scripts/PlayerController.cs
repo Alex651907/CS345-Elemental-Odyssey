@@ -27,7 +27,7 @@ public class PlayerController : MonoBehaviour
 
         if(wet)
         {
-            moveSpeed = 1;
+            moveSpeed = 2;
             jumpSpeed = 3;
             rb.mass = 4;
             rb.gravityScale = 0.5f;
