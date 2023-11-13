@@ -6,6 +6,7 @@ TagManager:
   tags:
   - fish
   - lava
+  - water
   layers:
   - Default
   - TransparentFX
