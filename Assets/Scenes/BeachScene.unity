@@ -5637,8 +5637,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a6f5a1d4c99121802bf150839f9f2f7d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  moveSpeed: 4
-  jumpSpeed: 6
+  defaultMoveSpeed: 4
+  defaultJumpSpeed: 8
   groundCheck: {fileID: 1795440377}
   whatIsTerrain:
     serializedVersion: 2
@@ -5647,6 +5647,7 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 16
   animator: {fileID: 229497608}
+  startingPos: {x: 0, y: 0}
 --- !u!50 &229497610
 Rigidbody2D:
   serializedVersion: 4

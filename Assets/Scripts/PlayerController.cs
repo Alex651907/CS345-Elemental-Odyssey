@@ -4,8 +4,10 @@ using UnityEngine;
 
 public class PlayerController : MonoBehaviour
 {
-    public float moveSpeed;
-    public float jumpSpeed;
+    private float moveSpeed;
+    private float jumpSpeed;
+    public float defaultMoveSpeed;
+    public float defaultJumpSpeed;
     public Transform groundCheck;
     public LayerMask whatIsTerrain;
     public LayerMask whatIsWater;
@@ -19,7 +21,8 @@ public class PlayerController : MonoBehaviour
     {
         rb = GetComponent<Rigidbody2D>();
         startingPos = transform.position;
-        
+        moveSpeed = defaultMoveSpeed;
+        jumpSpeed = defaultJumpSpeed;
     }
 
     // Update is called once per frame
@@ -37,8 +40,8 @@ public class PlayerController : MonoBehaviour
         }
         else if(!wet)
         {
-            moveSpeed = 4;
-            jumpSpeed = 6;
+            moveSpeed = defaultMoveSpeed;
+            jumpSpeed = defaultJumpSpeed;
             rb.mass = 1;
             rb.gravityScale = 1;
         }
