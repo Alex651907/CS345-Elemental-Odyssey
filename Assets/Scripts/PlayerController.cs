@@ -23,7 +23,8 @@ public class PlayerController : MonoBehaviour
         moveSpeed = defaultMoveSpeed;
         jumpSpeed = defaultJumpSpeed;
         startingPos = transform.position;
-        
+        moveSpeed = defaultMoveSpeed;
+        jumpSpeed = defaultJumpSpeed;
     }
 
     // Update is called once per frame
