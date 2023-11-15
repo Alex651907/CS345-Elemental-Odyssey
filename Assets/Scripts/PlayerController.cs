@@ -20,8 +20,6 @@ public class PlayerController : MonoBehaviour
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
-        moveSpeed = defaultMoveSpeed;
-        jumpSpeed = defaultJumpSpeed;
         startingPos = transform.position;
         moveSpeed = defaultMoveSpeed;
         jumpSpeed = defaultJumpSpeed;
