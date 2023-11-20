@@ -13,14 +13,17 @@ public class PlayerController : MonoBehaviour
     public LayerMask whatIsWater;
     public Animator animator;
     private Rigidbody2D rb;
+    public PlayerLives playerLives;
     public Vector2 startingPos = Vector2.zero;
-    private bool grounded;
-    private bool wet;
+    public bool grounded;
+    public bool wet;
+    private int lives;
     // Start is called before the first frame update
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
         startingPos = transform.position;
+        lives = 3;
         moveSpeed = defaultMoveSpeed;
         jumpSpeed = defaultJumpSpeed;
     }
@@ -64,10 +67,18 @@ public class PlayerController : MonoBehaviour
             rb.velocity = new Vector2(rb.velocity.x, jumpSpeed);
             animator.SetBool("grounded", false);
         }
+
+        if(lives <= 0)
+        {
+            
+        }
     }
-    void OnTriggerEnter2D(Collider2D co) {
-        if (co.tag == "lava"){
+    void OnTriggerEnter2D(Collider2D co)
+    {
+        if (co.tag == "lava" || co.tag == "enemy"){
+            lives -= 1;
             transform.position = startingPos;
+            playerLives.updateLives(lives);
         }
     }
 }

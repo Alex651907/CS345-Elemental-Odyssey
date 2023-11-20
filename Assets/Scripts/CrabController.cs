@@ -19,13 +19,10 @@ public class CrabController : MonoBehaviour
         transform.Translate(currentDirection * speed * Time.deltaTime);
     }
 
-    private void OnCollisionEnter2D(Collision2D collision)
+    private void OnTriggerEnter2D(Collider2D collision)
     {
         Debug.Log(collision.gameObject.name);
-        if (collision.gameObject.name == "Player")
-        {
-            collision.gameObject.SetActive(false);
-        } else if (collision.gameObject.name == "Beach")
+    if (collision.gameObject.name == "Beach")
         {
             currentDirection = -currentDirection;
         }
