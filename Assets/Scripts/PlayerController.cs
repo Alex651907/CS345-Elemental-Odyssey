@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class PlayerController : MonoBehaviour
 {
@@ -18,6 +19,8 @@ public class PlayerController : MonoBehaviour
     public bool grounded;
     public bool wet;
     private int lives;
+    public string gameOverScene;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -70,7 +73,7 @@ public class PlayerController : MonoBehaviour
 
         if(lives <= 0)
         {
-            
+            SceneManager.LoadScene(gameOverScene);
         }
     }
     void OnTriggerEnter2D(Collider2D co)
@@ -79,6 +82,9 @@ public class PlayerController : MonoBehaviour
             lives -= 1;
             transform.position = startingPos;
             playerLives.updateLives(lives);
+        }
+        if (lives <= 0) {
+            SceneManager.LoadScene(gameOverScene);
         }
     }
 }
