@@ -2016,13 +2016,21 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a6f5a1d4c99121802bf150839f9f2f7d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  moveSpeed: 4
-  jumpSpeed: 6
+  defaultMoveSpeed: 0
+  defaultJumpSpeed: 0
   groundCheck: {fileID: 716851672}
   whatIsTerrain:
     serializedVersion: 2
     m_Bits: 64
+  whatIsWater:
+    serializedVersion: 2
+    m_Bits: 0
   animator: {fileID: 1637381361}
+  playerLives: {fileID: 0}
+  startingPos: {x: 0, y: 0}
+  grounded: 0
+  wet: 0
+  gameOverScene: GameOver
 --- !u!95 &1637381361
 Animator:
   serializedVersion: 5

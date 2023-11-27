@@ -29843,7 +29843,11 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 16
   animator: {fileID: 1637381361}
+  playerLives: {fileID: 0}
   startingPos: {x: 0, y: 0}
+  grounded: 0
+  wet: 0
+  gameOverScene: GameOver
 --- !u!95 &1637381361
 Animator:
   serializedVersion: 5
