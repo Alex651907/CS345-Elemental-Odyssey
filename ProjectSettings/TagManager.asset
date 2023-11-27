@@ -9,6 +9,7 @@ TagManager:
   - water
   - enemy
   - crab
+  - sign
   layers:
   - Default
   - TransparentFX
@@ -42,9 +43,10 @@ TagManager:
   - 
   - 
   - 
-  - 
-  - 
   m_SortingLayers:
+  - name: Background
+    uniqueID: 1340430085
+    locked: 0
   - name: Default
     uniqueID: 0
     locked: 0
