@@ -15974,11 +15974,11 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 99510760}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -816, y: 492}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: 155.44002, y: -62.229996}
   m_SizeDelta: {x: 288, y: 96}
-  m_Pivot: {x: 0.5, y: 0.5}
+  m_Pivot: {x: 0.53973275, y: 0.35178334}
 --- !u!114 &827885971
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -20674,7 +20674,7 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 16
   animator: {fileID: 1081916870}
-  playerLives: {fileID: 0}
+  playerLives: {fileID: 827885971}
   startingPos: {x: 0, y: 0}
   grounded: 0
   wet: 0
@@ -38428,6 +38428,7 @@ PrefabInstance:
 SceneRoots:
   m_ObjectHideFlags: 0
   m_Roots:
+  - {fileID: 99510760}
   - {fileID: 1684633780}
   - {fileID: 1081916877}
   - {fileID: 623766063}
@@ -38436,4 +38437,3 @@ SceneRoots:
   - {fileID: 66145331}
   - {fileID: 706060768}
   - {fileID: 358939174}
-  - {fileID: 99510760}
