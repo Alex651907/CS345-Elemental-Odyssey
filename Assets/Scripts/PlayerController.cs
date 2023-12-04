@@ -1,7 +1,9 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 using UnityEngine.SceneManagement;
+using System;
 
 public class PlayerController : MonoBehaviour
 {
@@ -23,22 +25,19 @@ public class PlayerController : MonoBehaviour
     public bool grounded;
     public bool wet;
     public bool sprinting;
-    private int lives;
     public string gameOverScene;
     public GameObject[] powerUpAssets;
-    public AudioSource powerUpCollect;
-    public AudioSource jumpSound;
     public GameObject[] crabs;
     public GameObject powerUpItem;
-    public AudioSource playerDieAudio;
-    public AudioSource waterDieAudio;
-    public AudioSource gameOverAudio;
-    public AudioSource backgroundAudio;
     private bool deathTimerStart = false;
     private float deathAnimationTimer = 0f;
     private float dieRoationSpeed = 100f;
     private float dieScaleDownRate = .3f;
     public GameObject cameraObject;
+    public GameObject breathMeter;
+    public float maxBreath;
+    private float breath;
+    public AudioController audioController;
 
     // Start is called before the first frame update
     void Start()
@@ -47,7 +46,6 @@ public class PlayerController : MonoBehaviour
         startingPos = transform.position;
         startingRotation = transform.rotation;
         startingScale = transform.localScale;
-        lives = 3;
         moveSpeed = defaultMoveSpeed;
         jumpSpeed = defaultJumpSpeed;
         sprintSpeed = defaultSprintSpeed;
@@ -56,6 +54,8 @@ public class PlayerController : MonoBehaviour
             asset.SetActive(false);
         }
         sprinting = false;
+        breath = maxBreath;
+        playerLives.updateLives(Lives.GetLives());
     }
 
     // Update is called once per frame
@@ -67,23 +67,37 @@ public class PlayerController : MonoBehaviour
             wet = Physics2D.OverlapBox(groundCheck.position, new Vector2(0.1f, 0.2f), 0f, whatIsWater);
             animator.SetBool("wet", wet);
 
-            if (wet)
+        if (wet)
+        {
+            breathMeter.SetActive(true);
+            breath -= Time.deltaTime;
+            if(breath < 0.001f)
             {
-                moveSpeed = defaultMoveSpeed - 2;
-                sprintSpeed = defaultSprintSpeed - 2;
-                jumpSpeed = 3;
-                rb.mass = 4;
-                rb.gravityScale = 0.5f;
-
+                Lives.LoseLife();
+                transform.position = startingPos;
+                playerLives.updateLives(Lives.GetLives());
+                breath = maxBreath;
             }
-            else if (!wet)
-            {
-                moveSpeed = defaultMoveSpeed;
-                sprintSpeed = defaultSprintSpeed;
-                jumpSpeed = defaultJumpSpeed;
-                rb.mass = 1;
-                rb.gravityScale = 1;
-            }
+            moveSpeed = defaultMoveSpeed - 2;
+            sprintSpeed = defaultSprintSpeed - 2;
+            jumpSpeed = 3;
+            rb.mass = 4;
+            rb.gravityScale = 0.5f;
+        }
+        else if(!wet)
+        {
+            if(breath < maxBreath)
+                breath += Time.deltaTime;
+            else
+                breathMeter.SetActive(false);
+            moveSpeed = defaultMoveSpeed;
+            sprintSpeed = defaultSprintSpeed;
+            jumpSpeed = defaultJumpSpeed;
+            rb.mass = 1f;
+            rb.gravityScale = 1f;
+        }
+        float breathNorm = Mathf.Clamp01(breath / maxBreath);
+        breathMeter.GetComponent<Slider>().value = breathNorm;
 
             rb.velocity = new Vector2(Input.GetAxisRaw("Horizontal") * (sprinting ? sprintSpeed : moveSpeed), rb.velocity.y);
             animator.SetFloat("speed", rb.velocity.magnitude);
@@ -97,7 +111,7 @@ public class PlayerController : MonoBehaviour
                 animator.SetBool("grounded", false);
                 if (!wet)
                 {
-                    jumpSound.Play();
+                    audioController.playJump();
                 }
             }
 
@@ -154,11 +168,11 @@ public class PlayerController : MonoBehaviour
             {
                 if (wet)
                 {
-                    waterDieAudio.Play();
+                    audioController.playDeathWater();
                 }
                 else
                 {
-                    playerDieAudio.Play();
+                    audioController.playDeath();
                 }
             }
 
@@ -169,16 +183,21 @@ public class PlayerController : MonoBehaviour
         }
         else
         {
-            foreach (GameObject crab in crabs)
+            if(crabs.Length > 0)
             {
-                crab.SetActive(true);
+                foreach (GameObject crab in crabs)
+                {
+                    crab.SetActive(true);
+                }
             }
 
-            powerUpItem.SetActive(true);
+            if(powerUpAssets.Length > 0){
+                powerUpItem.SetActive(true);
 
-            foreach (GameObject asset in powerUpAssets)
-            {
-                asset.SetActive(false);
+                foreach (GameObject asset in powerUpAssets)
+                {
+                    asset.SetActive(false);
+                }
             }
 
             transform.position = startingPos;
@@ -194,18 +213,18 @@ public class PlayerController : MonoBehaviour
     void OnTriggerEnter2D(Collider2D co)
     {
         if (co.tag == "lava" || co.tag == "enemy"){
-            lives -= 1;
-            playerLives.updateLives(lives);
+            Lives.LoseLife();
+            playerLives.updateLives(Lives.GetLives());
             deathTimerStart = true;
         }
-        if (lives <= 0) {
-            gameOverAudio.Play();
+        if (Lives.GetLives() <= 0) {
+            audioController.playGameOver();
             SceneManager.LoadScene(gameOverScene);
         }
 
         if (co.tag == "power")
         {
-            powerUpCollect.Play();
+            audioController.playPowerUpCollect();
             co.gameObject.SetActive(false);
             foreach (GameObject asset in powerUpAssets)
             {
