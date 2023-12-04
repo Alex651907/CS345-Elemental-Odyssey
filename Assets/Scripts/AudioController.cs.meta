@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 4d604658bce93ce2c9548cbe630cf830
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - soundEffects: {instanceID: 0}
+  - jumpAudio: {fileID: 8300000, guid: 1fa458bf7fe0d434dba1e0cc89fd4c25, type: 3}
+  - deathAudio: {fileID: 8300000, guid: d3261bb4107ec1141ad78126dac0a473, type: 3}
+  - waterDeathAudio: {fileID: 8300000, guid: ebaba8be89ec02140b5038256c54ddf3, type: 3}
+  - gameOverAudio: {fileID: 8300000, guid: c55ddc8e579c37444b16db3444edd903, type: 3}
+  - powerUpCollectAudio: {fileID: 8300000, guid: 61f9ad92b3a167641ac66c0dc861807c, type: 3}
+  - levelCompletedAudio: {fileID: 8300000, guid: d8c1744f4ea2eb349a52b5dcbe40a8a8, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
