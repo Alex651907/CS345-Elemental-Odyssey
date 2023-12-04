@@ -9,6 +9,7 @@ public class FishController : MonoBehaviour
     private Vector2 currentDirection;
     private Rigidbody2D myRigidbody2D;
     private float wanderTimer;
+    private int terrainLayer = 6;
 
     // Start is called before the first frame update
     void Start()
@@ -38,7 +39,7 @@ public class FishController : MonoBehaviour
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
-        if (collision.gameObject.name == "Water")
+        if (collision.gameObject.layer == terrainLayer)
         {
             currentDirection = -currentDirection;
         }
