@@ -585,7 +585,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   newGameScene: BeachScene
-  creditsScene: 
+  creditsScene: Credits
 --- !u!1 &849080765
 GameObject:
   m_ObjectHideFlags: 0
