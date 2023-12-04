@@ -5,15 +5,23 @@ using UnityEngine;
 public static class Lives
 {
     private static int lives = 3;
+    private static float lasthit = -10f;
 
     public static int GetLives ()
     {
         return lives;
     }
 
-    public static void LoseLife()
+    public static bool LoseLife()
     {
-        lives -= 1;
+        if(Time.time > lasthit + 4f)
+        {
+            lives -= 1;
+            lasthit = Time.time;
+            return true;
+        }
+        else
+            return false;
     }
 
     public static void Reset()

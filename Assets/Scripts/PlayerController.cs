@@ -18,6 +18,7 @@ public class PlayerController : MonoBehaviour
     public LayerMask whatIsWater;
     public Animator animator;
     private Rigidbody2D rb;
+    private Collider2D col;
     public PlayerLives playerLives;
     private Vector2 startingPos;
     private Vector3 startingScale;
@@ -44,6 +45,7 @@ public class PlayerController : MonoBehaviour
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
+        col = GetComponent<Collider2D>();
         startingPos = transform.position;
         startingRotation = transform.rotation;
         startingScale = transform.localScale;
@@ -71,11 +73,13 @@ public class PlayerController : MonoBehaviour
             breath -= Time.deltaTime;
             if(breath < 0.001f)
             {
-                Lives.LoseLife();
-                audioController.playDeathWater();
-                controlsSuspended = true;
-                StartCoroutine(playDeathAnimation(3.0f));
-                playerLives.updateLives(Lives.GetLives());
+                bool tookHit = Lives.LoseLife();
+                if(tookHit)
+                {
+                    audioController.playDeathWater();
+                    StartCoroutine(playDeathAnimation(3.0f));
+                    playerLives.updateLives(Lives.GetLives());
+                }
             }
             moveSpeed = defaultMoveSpeed - 2;
             sprintSpeed = defaultSprintSpeed - 2;
@@ -168,19 +172,15 @@ public class PlayerController : MonoBehaviour
     void OnTriggerEnter2D(Collider2D co)
     {
         if (co.tag == "lava" || co.tag == "enemy"){
-            if (!controlsSuspended) {
-                Lives.LoseLife();
+            bool tookHit = Lives.LoseLife();
+            if(tookHit)
+            {
                 playerLives.updateLives(Lives.GetLives());
                 audioController.playDeath();
-                controlsSuspended = true;
                 StartCoroutine(playDeathAnimation(3.0f));
             }
         }
-        if (Lives.GetLives() <= 0) {
-            SceneManager.LoadScene(gameOverScene);
-        }
-
-        if (co.tag == "power")
+        if (co.tag == "scuba")
         {
             audioController.playPowerUpCollect();
             powerUpItem.SetActive(false);
@@ -188,6 +188,8 @@ public class PlayerController : MonoBehaviour
             {
                 asset.SetActive(true);
             }
+            maxBreath = 60;
+            breath = maxBreath;
         }
         if (co.tag == "icepower")
         {
@@ -225,6 +227,7 @@ public class PlayerController : MonoBehaviour
 
     IEnumerator playDeathAnimation(float duration)
     {
+        col.enabled = false;
         if(crabs.Length > 0)
         {
             foreach (GameObject crab in crabs)
@@ -243,15 +246,20 @@ public class PlayerController : MonoBehaviour
             yield return null;
         }
         rb.constraints = RigidbodyConstraints2D.FreezeRotation;
-        respawn();
+        col.enabled = true;
+        if (Lives.GetLives() <= 0) {
+            SceneManager.LoadScene(gameOverScene);
+        }
+        else
+            respawn();
     }
 
     void respawn()
     {
+        breath = maxBreath;
         transform.position = startingPos;
         transform.localScale = startingScale;
         transform.rotation = startingRotation;
-        breath = maxBreath;
         if(crabs.Length > 0)
         {
             foreach (GameObject crab in crabs) 
