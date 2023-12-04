@@ -29,9 +29,7 @@ public class PlayerController : MonoBehaviour
     public GameObject[] powerUpAssets;
     public GameObject[] crabs;
     public GameObject powerUpItem;
-    private bool deathTimerStart = false;
-    private float deathAnimationTimer = 0f;
-    private float dieRoationSpeed = 100f;
+    private float dieRotationSpeed = 100f;
     private float dieScaleDownRate = .3f;
     public GameObject cameraObject;
     public GameObject breathMeter;
@@ -39,6 +37,7 @@ public class PlayerController : MonoBehaviour
     private float breath;
     public AudioController audioController;
     private bool hasIcePowerup;
+    public bool controlsSuspended;
 
     // Start is called before the first frame update
     void Start()
@@ -51,9 +50,8 @@ public class PlayerController : MonoBehaviour
         jumpSpeed = defaultJumpSpeed;
         sprintSpeed = defaultSprintSpeed;
         foreach (GameObject asset in powerUpAssets)
-        {
             asset.SetActive(false);
-        }
+        controlsSuspended = false;
         sprinting = false;
         breath = maxBreath;
         playerLives.updateLives(Lives.GetLives());
@@ -62,11 +60,9 @@ public class PlayerController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (!deathTimerStart)
-        {
-            grounded = Physics2D.OverlapBox(groundCheck.position, new Vector2(0.1f, 0.2f), 0f, whatIsTerrain);
-            wet = Physics2D.OverlapBox(groundCheck.position, new Vector2(0.1f, 0.2f), 0f, whatIsWater);
-            animator.SetBool("wet", wet);
+        grounded = Physics2D.OverlapBox(groundCheck.position, new Vector2(0.1f, 0.2f), 0f, whatIsTerrain);
+        wet = Physics2D.OverlapBox(groundCheck.position, new Vector2(0.1f, 0.2f), 0f, whatIsWater);
+        animator.SetBool("wet", wet);
 
         if (wet)
         {
@@ -75,9 +71,10 @@ public class PlayerController : MonoBehaviour
             if(breath < 0.001f)
             {
                 Lives.LoseLife();
-                transform.position = startingPos;
+                audioController.playDeathWater();
+                controlsSuspended = true;
+                StartCoroutine(playDeathAnimation(3.0f));
                 playerLives.updateLives(Lives.GetLives());
-                breath = maxBreath;
             }
             moveSpeed = defaultMoveSpeed - 2;
             sprintSpeed = defaultSprintSpeed - 2;
@@ -100,9 +97,9 @@ public class PlayerController : MonoBehaviour
         float breathNorm = Mathf.Clamp01(breath / maxBreath);
         breathMeter.GetComponent<Slider>().value = breathNorm;
 
+        if(!controlsSuspended)
             rb.velocity = new Vector2(Input.GetAxisRaw("Horizontal") * (sprinting ? sprintSpeed : moveSpeed), rb.velocity.y);
             animator.SetFloat("speed", rb.velocity.magnitude);
-            animator.SetBool("sprinting", sprinting && (grounded || wet));
 
             animator.SetBool("grounded", grounded);
 
@@ -160,79 +157,28 @@ public class PlayerController : MonoBehaviour
             {
                 
             }
-        } 
-        else if (!(Vector3.Distance(transform.localScale, new Vector3(.1f, .1f, 1f)) < 0.01f))
-        {
-            foreach (GameObject crab in crabs)
-            {
-                crab.GetComponent<CrabController>().ResetPosition();
-                crab.SetActive(false);
-            }
+    } 
 
-            if (deathAnimationTimer == 0f)
-            {
-                if (wet)
-                {
-                    audioController.playDeathWater();
-                }
-                else
-                {
-                    audioController.playDeath();
-                }
-            }
 
-            transform.rotation *= Quaternion.Euler(0f, 0f, dieRoationSpeed * Time.deltaTime);
-            transform.localScale = transform.localScale - new Vector3(dieScaleDownRate, dieScaleDownRate, 0) * Time.deltaTime;
-
-            deathAnimationTimer += 1f;
-        }
-        else
-        {
-            if(crabs.Length > 0)
-            {
-                foreach (GameObject crab in crabs)
-                {
-                    crab.SetActive(true);
-                }
-            }
-
-            if(powerUpAssets.Length > 0){
-                powerUpItem.SetActive(true);
-
-                foreach (GameObject asset in powerUpAssets)
-                {
-                    asset.SetActive(false);
-                }
-            }
-
-            transform.position = startingPos;
-            transform.localScale = startingScale;
-            transform.rotation = startingRotation;
-
-            deathAnimationTimer = 0f;
-            deathTimerStart = false;
-        }
-
-       
-    }
     void OnTriggerEnter2D(Collider2D co)
     {
         if (co.tag == "lava" || co.tag == "enemy"){
-            if (!deathTimerStart) {
+            if (!controlsSuspended) {
                 Lives.LoseLife();
                 playerLives.updateLives(Lives.GetLives());
-                deathTimerStart = true;
+                audioController.playDeath();
+                controlsSuspended = true;
+                StartCoroutine(playDeathAnimation(3.0f));
             }
         }
         if (Lives.GetLives() <= 0) {
-            audioController.playGameOver();
             SceneManager.LoadScene(gameOverScene);
         }
 
         if (co.tag == "power")
         {
             audioController.playPowerUpCollect();
-            co.gameObject.SetActive(false);
+            powerUpItem.SetActive(false);
             foreach (GameObject asset in powerUpAssets)
             {
                 asset.SetActive(true);
@@ -259,11 +205,57 @@ public class PlayerController : MonoBehaviour
     {
         if (col.gameObject.CompareTag("lava"))
         {
-            if (!deathTimerStart) {
+            if (!controlsSuspended) {
                 Lives.LoseLife();
                 playerLives.updateLives(Lives.GetLives());
-                deathTimerStart = true;
+                audioController.playDeath();
+                controlsSuspended = true;
+                StartCoroutine(playDeathAnimation(3.0f));
+        }
+    }
+    }
+
+    IEnumerator playDeathAnimation(float duration)
+    {
+        if(crabs.Length > 0)
+        {
+            foreach (GameObject crab in crabs)
+            {
+                crab.GetComponent<CrabController>().ResetPosition();
+                crab.SetActive(false);
             }
         }
+        float timer = Time.time;
+        float iniTime = timer;
+        rb.constraints = RigidbodyConstraints2D.FreezePosition;
+        while(timer < iniTime + duration){
+            transform.rotation *= Quaternion.Euler(0f, 0f, dieRotationSpeed * Time.deltaTime);
+            transform.localScale = transform.localScale - new Vector3(dieScaleDownRate, dieScaleDownRate, 0) * Time.deltaTime;
+            timer += Time.deltaTime;
+            yield return null;
+        }
+        rb.constraints = RigidbodyConstraints2D.FreezeRotation;
+        respawn();
+    }
+
+    void respawn()
+    {
+        transform.position = startingPos;
+        transform.localScale = startingScale;
+        transform.rotation = startingRotation;
+        breath = maxBreath;
+        if(crabs.Length > 0)
+        {
+            foreach (GameObject crab in crabs) 
+                crab.SetActive(true);
+        }
+        if(powerUpAssets.Length > 0){
+            powerUpItem.SetActive(true);
+            foreach (GameObject asset in powerUpAssets)
+            {
+                asset.SetActive(false);
+            }
+        }
+        controlsSuspended = false;
     }
 }
