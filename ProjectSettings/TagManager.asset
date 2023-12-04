@@ -13,6 +13,7 @@ TagManager:
   - power
   - scuba
   - level_up
+  - vine
   - icepower
   layers:
   - Default

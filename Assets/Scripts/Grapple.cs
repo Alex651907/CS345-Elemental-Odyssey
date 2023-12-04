@@ -9,6 +9,7 @@ public class Grapple : MonoBehaviour
     public LineRenderer lineRenderer;
     public DistanceJoint2D distanceJoint2D;
     public PlayerController playerController;
+    public CanGrapple grappaplable;
     // Start is called before the first frame update
     void Start()
     {
@@ -19,7 +20,7 @@ public class Grapple : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if(Input.GetKeyDown(KeyCode.Mouse0))
+        if(Input.GetKeyDown(KeyCode.Mouse0) && CanGrapple.status == true)
         {
             Vector2 mousePosition = mainCamera.ScreenToWorldPoint(Input.mousePosition);
             lineRenderer.SetPosition(0, mousePosition);
