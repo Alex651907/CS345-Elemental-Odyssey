@@ -7,11 +7,13 @@ public class CrabController : MonoBehaviour
     public float speed = 4f;
     private Vector2 currentPosition;
     private Vector2 currentDirection;
+    private Vector2 startingPos;
 
     void Start()
     {
         currentPosition = transform.position;
         currentDirection = Vector2.left;
+        startingPos = transform.position;
     }
 
     void Update()
@@ -21,10 +23,14 @@ public class CrabController : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        Debug.Log(collision.gameObject.name);
-    if (collision.gameObject.name == "Beach")
+        if (collision.gameObject.name == "Beach")
         {
             currentDirection = -currentDirection;
         }
+    }
+
+    public void ResetPosition()
+    {
+        transform.position = startingPos;
     }
 }

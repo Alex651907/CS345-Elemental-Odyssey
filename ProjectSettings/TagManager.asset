@@ -10,6 +10,9 @@ TagManager:
   - enemy
   - crab
   - sign
+  - power
+  - scuba
+  - level_up
   layers:
   - Default
   - TransparentFX
@@ -20,7 +23,7 @@ TagManager:
   - Terrain
   - Fish
   - Lava
-  - 
+  - Shark
   - Sky
   - Crab
   - 
