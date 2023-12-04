@@ -38,6 +38,7 @@ public class PlayerController : MonoBehaviour
     public float maxBreath;
     private float breath;
     public AudioController audioController;
+    private bool hasIcePowerup;
 
     // Start is called before the first frame update
     void Start()
@@ -155,6 +156,10 @@ public class PlayerController : MonoBehaviour
             {
                 sprinting = false;
             }
+            if (Input.GetKeyDown(KeyCode.E) && hasIcePowerup)
+            {
+                
+            }
         } 
         else if (!(Vector3.Distance(transform.localScale, new Vector3(.1f, .1f, 1f)) < 0.01f))
         {
@@ -213,9 +218,11 @@ public class PlayerController : MonoBehaviour
     void OnTriggerEnter2D(Collider2D co)
     {
         if (co.tag == "lava" || co.tag == "enemy"){
-            Lives.LoseLife();
-            playerLives.updateLives(Lives.GetLives());
-            deathTimerStart = true;
+            if (!deathTimerStart) {
+                Lives.LoseLife();
+                playerLives.updateLives(Lives.GetLives());
+                deathTimerStart = true;
+            }
         }
         if (Lives.GetLives() <= 0) {
             audioController.playGameOver();
@@ -231,10 +238,32 @@ public class PlayerController : MonoBehaviour
                 asset.SetActive(true);
             }
         }
+        if (co.tag == "icepower")
+        {
+            audioController.playPowerUpCollect();
+            co.gameObject.SetActive(false);
+            foreach (GameObject asset in powerUpAssets)
+            {
+                asset.SetActive(true);
+            }
+            hasIcePowerup = true;
+        }
 
         if (co.tag == "level_up")
         {
             co.gameObject.GetComponent<AudioSource>().Play();
+        }
+    }
+
+    void OnCollisionEnter2D(Collision2D col)
+    {
+        if (col.gameObject.CompareTag("lava"))
+        {
+            if (!deathTimerStart) {
+                Lives.LoseLife();
+                playerLives.updateLives(Lives.GetLives());
+                deathTimerStart = true;
+            }
         }
     }
 }
