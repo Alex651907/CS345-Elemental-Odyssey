@@ -13,6 +13,7 @@ TagManager:
   - power
   - scuba
   - level_up
+  - icepower
   layers:
   - Default
   - TransparentFX
@@ -26,7 +27,7 @@ TagManager:
   - Shark
   - Sky
   - Crab
-  - 
+  - Ice
   - 
   - 
   - 
