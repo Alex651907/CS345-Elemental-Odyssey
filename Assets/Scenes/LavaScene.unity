@@ -26480,11 +26480,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 4806371984088162520, guid: 2ddf15c23d4b33047b64700552560a50, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -25.978258
+      value: -26.48
       objectReference: {fileID: 0}
     - target: {fileID: 4806371984088162520, guid: 2ddf15c23d4b33047b64700552560a50, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -1.3798875
+      value: -1.4
       objectReference: {fileID: 0}
     - target: {fileID: 4806371984088162520, guid: 2ddf15c23d4b33047b64700552560a50, type: 3}
       propertyPath: m_LocalPosition.z
@@ -42452,6 +42452,7 @@ MonoBehaviour:
   breathMeter: {fileID: 2034609056}
   maxBreath: 15
   audioController: {fileID: 337343829}
+  controlsSuspended: 0
 --- !u!120 &1904772540
 LineRenderer:
   serializedVersion: 2
