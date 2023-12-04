@@ -161,9 +161,10 @@ public class PlayerController : MonoBehaviour
             breath = maxBreath;
         }
 
-        if (co.tag == "level_up")
+        if (co.tag == "vine")
         {
-            co.gameObject.GetComponent<AudioSource>().Play();
+            powerUpItem.SetActive(false);
+            gameObject.GetComponent<Grapple>().enabled = true;
         }
     }
 
