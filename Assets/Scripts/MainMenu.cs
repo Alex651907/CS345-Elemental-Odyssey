@@ -22,6 +22,7 @@ public class MainMenu : MonoBehaviour
 
     public void NewGame() 
     {
+        Lives.Reset();
         SceneManager.LoadScene(newGameScene);
     }
 

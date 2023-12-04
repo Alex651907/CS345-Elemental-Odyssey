@@ -21,7 +21,6 @@ public class PlayerController : MonoBehaviour
     public bool grounded;
     public bool wet;
     public bool sprinting;
-    private int lives;
     public string gameOverScene;
     public GameObject[] powerUpAssets;
     public AudioSource powerUpCollect;
@@ -34,7 +33,6 @@ public class PlayerController : MonoBehaviour
     {
         rb = GetComponent<Rigidbody2D>();
         startingPos = transform.position;
-        lives = 3;
         moveSpeed = defaultMoveSpeed;
         jumpSpeed = defaultJumpSpeed;
         sprintSpeed = defaultSprintSpeed;
@@ -43,6 +41,7 @@ public class PlayerController : MonoBehaviour
             asset.SetActive(false);
         }
         sprinting = false;
+        playerLives.updateLives(Lives.GetLives());
     }
 
     // Update is called once per frame
@@ -127,7 +126,7 @@ public class PlayerController : MonoBehaviour
             sprinting = false;
         }
 
-        if (lives <= 0)
+        if (Lives.GetLives() <= 0)
         {
             SceneManager.LoadScene(gameOverScene);
         }
@@ -135,25 +134,26 @@ public class PlayerController : MonoBehaviour
     void OnTriggerEnter2D(Collider2D co)
     {
         if (co.tag == "lava" || co.tag == "enemy"){
-            lives -= 1;
+            Lives.LoseLife();
 
-            foreach (GameObject crab in crabs)
-            {
-                crab.GetComponent<CrabController>().ResetPosition();
+            if(crabs.Length > 0){
+                foreach (GameObject crab in crabs)
+                {
+                    crab.GetComponent<CrabController>().ResetPosition();
+                }
             }
 
-            powerUpItem.SetActive(true);
+            if(powerUpAssets.Length > 0){
+                powerUpItem.SetActive(true);
 
-            foreach (GameObject asset in powerUpAssets)
-            {
-                asset.SetActive(false);
+                foreach (GameObject asset in powerUpAssets)
+                {
+                    asset.SetActive(false);
+                }
             }
 
             transform.position = startingPos;
-            playerLives.updateLives(lives);
-        }
-        if (lives <= 0) {
-            SceneManager.LoadScene(gameOverScene);
+            playerLives.updateLives(Lives.GetLives());
         }
 
         if (co.tag == "power")
