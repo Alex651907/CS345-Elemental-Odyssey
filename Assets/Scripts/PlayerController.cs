@@ -36,8 +36,9 @@ public class PlayerController : MonoBehaviour
     public float maxBreath;
     private float breath;
     public AudioController audioController;
-    private bool hasIcePowerup;
+    public bool hasIcePowerup;
     public bool controlsSuspended;
+    public GameObject icePrefab;
 
     // Start is called before the first frame update
     void Start()
@@ -143,7 +144,6 @@ public class PlayerController : MonoBehaviour
                     }
                 }
             }
-
             if (Input.GetKeyDown(KeyCode.Q))
             {
                 sprinting = true;
@@ -155,7 +155,12 @@ public class PlayerController : MonoBehaviour
             }
             if (Input.GetKeyDown(KeyCode.E) && hasIcePowerup)
             {
-                
+                float offset = 1.5f;
+                Vector3 spawnPosition = transform.position + new Vector3((gameObject.GetComponent<SpriteRenderer>().flipX ? -offset : offset), 0.5f, 0f);
+                Instantiate(icePrefab, spawnPosition, Quaternion.identity);
+            }
+            if (Lives.GetLives() <= 0) {
+                SceneManager.LoadScene(gameOverScene);
             }
     } 
 
@@ -212,7 +217,10 @@ public class PlayerController : MonoBehaviour
                 controlsSuspended = true;
                 StartCoroutine(playDeathAnimation(3.0f));
         }
-    }
+        }
+    if (Lives.GetLives() <= 0) {
+            SceneManager.LoadScene(gameOverScene);
+        }
     }
 
     IEnumerator playDeathAnimation(float duration)
