@@ -30,14 +30,16 @@ public class PlayerController : MonoBehaviour
     public GameObject[] powerUpAssets;
     public GameObject[] crabs;
     public GameObject powerUpItem;
-    private float dieRoationSpeed = 100f;
+    private float dieRotationSpeed = 100f;
     private float dieScaleDownRate = .3f;
     public GameObject cameraObject;
     public GameObject breathMeter;
     public float maxBreath;
     private float breath;
     public AudioController audioController;
+    public bool hasIcePowerup;
     public bool controlsSuspended;
+    public GameObject icePrefab;
 
     // Start is called before the first frame update
     void Start()
@@ -102,41 +104,71 @@ public class PlayerController : MonoBehaviour
 
         if(!controlsSuspended)
             rb.velocity = new Vector2(Input.GetAxisRaw("Horizontal") * (sprinting ? sprintSpeed : moveSpeed), rb.velocity.y);
-        animator.SetFloat("speed", rb.velocity.magnitude);
+            animator.SetFloat("speed", rb.velocity.magnitude);
 
-        animator.SetBool("sprinting", sprinting && (grounded || wet));
-        animator.SetBool("grounded", grounded);
-        
-        if (Input.GetButtonDown("Jump") && (grounded || wet))
-        {
-            rb.velocity = new Vector2(rb.velocity.x, jumpSpeed);
-            animator.SetBool("grounded", false);
-            if (!wet)
+            animator.SetBool("grounded", grounded);
+
+            if (Input.GetButtonDown("Jump") && (grounded || wet))
             {
-                audioController.playJump();
+                rb.velocity = new Vector2(rb.velocity.x, jumpSpeed);
+                animator.SetBool("grounded", false);
+                if (!wet)
+                {
+                    audioController.playJump();
+                }
             }
-        }
-        if (Input.GetKeyDown(KeyCode.A) || Input.GetKeyDown(KeyCode.LeftArrow))
-        {
-            gameObject.GetComponent<SpriteRenderer>().flipX = true;
-            foreach (GameObject asset in powerUpAssets)
-                asset.GetComponent<SpriteRenderer>().flipX = true;
-        }
-        if (Input.GetKeyDown(KeyCode.D) || Input.GetKeyDown(KeyCode.RightArrow))
-        {
-            gameObject.GetComponent<SpriteRenderer>().flipX = false;
-            foreach (GameObject asset in powerUpAssets)
-                asset.GetComponent<SpriteRenderer>().flipX = false;
-        }
-        if (Input.GetKeyDown(KeyCode.Q) && grounded)
-        {
-            sprinting = true;
-        }
-        else if (Input.GetKeyUp(KeyCode.Q))
-        {
-            sprinting = false;
-        }
+
+            if (Input.GetKeyDown(KeyCode.A) || Input.GetKeyDown(KeyCode.LeftArrow))
+            {
+                gameObject.GetComponent<SpriteRenderer>().flipX = true;
+
+                foreach (GameObject asset in powerUpAssets)
+                {
+                    bool facingLeft = asset.GetComponent<SpriteRenderer>().flipX;
+                    asset.GetComponent<SpriteRenderer>().flipX = true;
+
+                    if (asset.name == "scubaTank" && !facingLeft)
+                    {
+                        asset.transform.localPosition = new Vector3(-asset.transform.localPosition.x, asset.transform.localPosition.y, 0.0f);
+                    }
+                }
+            }
+            if (Input.GetKeyDown(KeyCode.D) || Input.GetKeyDown(KeyCode.RightArrow))
+            {
+                gameObject.GetComponent<SpriteRenderer>().flipX = false;
+
+                foreach (GameObject asset in powerUpAssets)
+                {
+                    bool facingRight = !asset.GetComponent<SpriteRenderer>().flipX;
+                    asset.GetComponent<SpriteRenderer>().flipX = false;
+
+                    if (asset.name == "scubaTank" && !facingRight)
+                    {
+                        asset.transform.localPosition = new Vector3(-asset.transform.localPosition.x, asset.transform.localPosition.y, 0.0f);
+                    }
+                }
+            }
+            if (Input.GetKeyDown(KeyCode.Q))
+            {
+                sprinting = true;
+
+            }
+            else if (Input.GetKeyUp(KeyCode.Q))
+            {
+                sprinting = false;
+            }
+            if (Input.GetKeyDown(KeyCode.E) && hasIcePowerup)
+            {
+                float offset = 1.5f;
+                Vector3 spawnPosition = transform.position + new Vector3((gameObject.GetComponent<SpriteRenderer>().flipX ? -offset : offset), 0.5f, 0f);
+                Instantiate(icePrefab, spawnPosition, Quaternion.identity);
+            }
+            if (Lives.GetLives() <= 0) {
+                SceneManager.LoadScene(gameOverScene);
+            }
     } 
+
+
     void OnTriggerEnter2D(Collider2D co)
     {
         if (co.tag == "lava" || co.tag == "enemy"){
@@ -148,7 +180,6 @@ public class PlayerController : MonoBehaviour
                 StartCoroutine(playDeathAnimation(3.0f));
             }
         }
-
         if (co.tag == "scuba")
         {
             audioController.playPowerUpCollect();
@@ -160,11 +191,38 @@ public class PlayerController : MonoBehaviour
             maxBreath = 60;
             breath = maxBreath;
         }
+        if (co.tag == "icepower")
+        {
+            audioController.playPowerUpCollect();
+            co.gameObject.SetActive(false);
+            foreach (GameObject asset in powerUpAssets)
+            {
+                asset.SetActive(true);
+            }
+            hasIcePowerup = true;
+        }
 
         if (co.tag == "vine")
         {
             powerUpItem.SetActive(false);
             gameObject.GetComponent<Grapple>().enabled = true;
+        }
+    }
+
+    void OnCollisionEnter2D(Collision2D col)
+    {
+        if (col.gameObject.CompareTag("lava"))
+        {
+            if (!controlsSuspended) {
+                Lives.LoseLife();
+                playerLives.updateLives(Lives.GetLives());
+                audioController.playDeath();
+                controlsSuspended = true;
+                StartCoroutine(playDeathAnimation(3.0f));
+        }
+        }
+    if (Lives.GetLives() <= 0) {
+            SceneManager.LoadScene(gameOverScene);
         }
     }
 
@@ -183,7 +241,7 @@ public class PlayerController : MonoBehaviour
         float iniTime = timer;
         rb.constraints = RigidbodyConstraints2D.FreezePosition;
         while(timer < iniTime + duration){
-            transform.rotation *= Quaternion.Euler(0f, 0f, dieRoationSpeed * Time.deltaTime);
+            transform.rotation *= Quaternion.Euler(0f, 0f, dieRotationSpeed * Time.deltaTime);
             transform.localScale = transform.localScale - new Vector3(dieScaleDownRate, dieScaleDownRate, 0) * Time.deltaTime;
             timer += Time.deltaTime;
             yield return null;

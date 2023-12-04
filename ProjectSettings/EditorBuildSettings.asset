@@ -20,4 +20,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/JungleScene.unity
     guid: cc00d0f256de00182ba0a5c27e0cf8b6
+  - enabled: 1
+    path: Assets/Scenes/VictoryScreen.unity
+    guid: 4c6cbe74c448b4348a8630c5c4a8e5d1
+  - enabled: 1
+    path: Assets/Scenes/Credits.unity
+    guid: f77f97dde8d641f7099948d6a090450f
   m_configObjects: {}
