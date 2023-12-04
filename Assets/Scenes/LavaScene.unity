@@ -16056,6 +16056,7 @@ MonoBehaviour:
   - {fileID: 1492491612, guid: f2d68698292169d4c8fcd417b195677a, type: 3}
   - {fileID: 1054379704, guid: f2d68698292169d4c8fcd417b195677a, type: 3}
   - {fileID: 330772332, guid: f2d68698292169d4c8fcd417b195677a, type: 3}
+  - {fileID: -375206131, guid: f2d68698292169d4c8fcd417b195677a, type: 3}
   livesImage: {fileID: 827885972}
 --- !u!114 &827885972
 MonoBehaviour:
@@ -34510,6 +34511,8 @@ MonoBehaviour:
   jumpSound: {fileID: 0}
   crabs: []
   powerUpItem: {fileID: 0}
+  breathMeter: {fileID: 0}
+  maxBreath: 0
 --- !u!120 &1904772540
 LineRenderer:
   serializedVersion: 2

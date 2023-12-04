@@ -1,7 +1,9 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 using UnityEngine.SceneManagement;
+using System;
 
 public class PlayerController : MonoBehaviour
 {
@@ -27,6 +29,9 @@ public class PlayerController : MonoBehaviour
     public AudioSource jumpSound;
     public GameObject[] crabs;
     public GameObject powerUpItem;
+    public GameObject breathMeter;
+    public float maxBreath;
+    private float breath;
 
     // Start is called before the first frame update
     void Start()
@@ -41,6 +46,7 @@ public class PlayerController : MonoBehaviour
             asset.SetActive(false);
         }
         sprinting = false;
+        breath = maxBreath;
         playerLives.updateLives(Lives.GetLives());
     }
 
@@ -53,21 +59,35 @@ public class PlayerController : MonoBehaviour
 
         if (wet)
         {
+            breathMeter.SetActive(true);
+            breath -= Time.deltaTime;
+            if(breath < 0.001f)
+            {
+                Lives.LoseLife();
+                transform.position = startingPos;
+                playerLives.updateLives(Lives.GetLives());
+                breath = maxBreath;
+            }
             moveSpeed = defaultMoveSpeed - 2;
             sprintSpeed = defaultSprintSpeed - 2;
             jumpSpeed = 3;
             rb.mass = 4;
             rb.gravityScale = 0.5f;
-            
         }
         else if(!wet)
         {
+            if(breath < maxBreath)
+                breath += Time.deltaTime;
+            else
+                breathMeter.SetActive(false);
             moveSpeed = defaultMoveSpeed;
             sprintSpeed = defaultSprintSpeed;
             jumpSpeed = defaultJumpSpeed;
             rb.mass = 1f;
             rb.gravityScale = 1f;
         }
+        float breathNorm = Mathf.Clamp01(breath / maxBreath);
+        breathMeter.GetComponent<Slider>().value = breathNorm;
 
         rb.velocity = new Vector2(Input.GetAxisRaw("Horizontal") * (sprinting ? sprintSpeed : moveSpeed), rb.velocity.y);
         animator.SetFloat("speed", rb.velocity.magnitude);
